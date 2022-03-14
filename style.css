@@ -58,6 +58,7 @@ p {
   border-top: 5px solid;
   border-radius: 5px;
   box-shadow: 0 14px 24px rgba(0, 0, 0, 0.192);
+  background-color: hsl(0, 0%, 98%);
 }
 
 .card img {
